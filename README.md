@@ -14,3 +14,4 @@ RichPerson 클래스는 부동산VO 클래스 (PropertVO)와 주식VO 클래스 
 AssetException 클래스를 통해 예외처리
 
 Main에서 실제 동작
+ 
